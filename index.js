@@ -1,5 +1,5 @@
 const Discord = require("discord.js")
-require("dotenv").confing()
+require("dotenv").config()
 
 const Token = "OTI3MjYwMzQ0OTMyNTE1OTIw.YdHofQ.KVIZnsUdg8-jmBybgvVhLj_X4Jo"
 
